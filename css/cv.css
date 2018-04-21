@@ -1,10 +1,37 @@
 header{text-align: left;
   font-size: 30px;
   color: black;}
+
   p.clear{clear: both;
 }
-img{border-radius: 50%}
-h1{color: black; text-align:left;}
-  h4{font-size: 20px;
-font-variant: small-caps;}
+h1{font-size: 15px;
+  color: black;
+  text-align:left;}
+h2{font-variant: small-caps;
+color: white;
+}
 p.greating{text-align: center;}
+div{height: auto;
+width:auto;}
+td{text-align: left;}
+th{text-align: left;
+width: 150px;}
+<!--#ubc7-wordmark {
+    float: left;
+    position: relative;
+    width: 85%!important;
+}
+.span1{ubc-clf-full-bw.min.css:9;
+width: 60px;
+}
+#ubc7-logo{background-image: url(https://cdn.ubc.ca/clf/7.0.4/img/ubc7-clf-sprite-blue.png);
+background-repeat: no-repeat;
+background-position: 11px - 115px;
+min-width: 95px;
+height: 100%;
+}
+  #ubc7-wordmark-block{background-position: -2px -229px;}
+#ubc7-wordmark{width: 70%;
+background: 0;
+float: left;
+position: relative; }-->
